@@ -1,0 +1,24 @@
+
+.pequeña{
+    right: 50px;
+    width: 50px;
+}
+
+.letra{
+    color: rgb(179, 179, 179);
+}
+
+.a{
+    background: linear-gradient(#634249,  #29493f02);
+    float: left;
+    height: 25px;
+    padding: 0 25px;
+    color: #999;
+    text-transform: uppercase;
+    font: bold 12px/25px Arial, Helvetica;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000;
+    
+}
+
+
